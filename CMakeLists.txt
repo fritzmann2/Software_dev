@@ -3,7 +3,7 @@
 ## \17.03.2025 2025
 
 # Set the minimum required CMake version
-cmake_minimum_required(VERSION 4.0)
+cmake_minimum_required(VERSION 3.31.3)
 
 ## \brief Define the project name and version
 project(Project VERSION 1.0)
